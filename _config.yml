@@ -6,7 +6,7 @@ description: >
   BombBomb's technology team manages a wide variety of technology
   delivering video, email and analytics at scale and speed.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://bombbomb.github.io" # the base hostname & protocol for your site
 twitter_username: bombbomb
 github_username:  bombbomb
 
